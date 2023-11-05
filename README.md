@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am a 5th year student now, I am mostly a c++ programmer but I'm interested in various domains.
+#### Checkout my projects !
+I am currently working on a discord bot to improve the online role play experience
 <!--
 **Titouan-Loeb/Titouan-Loeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
