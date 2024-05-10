@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a 5th year student now, I am mostly a c++ programmer but I'm interested in various domains.
+I am a 5th year student now, I mostly program in c++ but I'm interested in various domains.
 #### Checkout my projects !
 I am currently working on a discord-js bot to improve the online role play experience
 <!--
