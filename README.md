@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a 5th year student now, I mostly program in c++ but I'm interested in various domains.
+I am a 5th year student at Epitech, I mostly program in c++ but I'm interested in various domains.
 #### Checkout my projects !
 You can checkout my portfolio [here](https://portfolio-git-master-titouan-loebs-projects.vercel.app/)
 <!--
