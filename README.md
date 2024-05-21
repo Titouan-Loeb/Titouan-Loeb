@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a 5th year student at Epitech, I mostly program in c++ but I'm interested in various domains.
 #### Checkout my projects !
-You can checkout my portfolio [here](https://portfolio-git-master-titouan-loebs-projects.vercel.app/)
+Hey! Go checkout my [portfolio](https://portfolio-git-master-titouan-loebs-projects.vercel.app/)!
 <!--
 **Titouan-Loeb/Titouan-Loeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
