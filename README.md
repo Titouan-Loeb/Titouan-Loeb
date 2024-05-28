@@ -16,7 +16,7 @@ Hey go checkout my [portfolio](https://portfolio-git-master-titouan-loebs-projec
 ### My workshops
 - [Workshop hadware Arduino](https://github.com/Titouan-Loeb/Workshop-hardware-Arduino)
 - [Mini project Arduino](https://github.com/Titouan-Loeb/Mini-project-Arduino)
-### Template
+### Templates
 - [Template C++](https://github.com/Titouan-Loeb/Template_CPP)
 <!--
 **Titouan-Loeb/Titouan-Loeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
