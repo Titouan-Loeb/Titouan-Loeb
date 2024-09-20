@@ -1,5 +1,6 @@
 ### Hi there 👋
 Hey go checkout my [portfolio](https://portfolio-git-master-titouan-loebs-projects.vercel.app/) to learn more about me.
+
 ## My projects
 ### Personal projects
 - [Sokoban duel](https://github.com/Titouan-Loeb/Sokoban_duel)
@@ -18,6 +19,8 @@ Hey go checkout my [portfolio](https://portfolio-git-master-titouan-loebs-projec
 - [Mini project Arduino](https://github.com/Titouan-Loeb/Mini-project-Arduino)
 ### Templates
 - [Template C++](https://github.com/Titouan-Loeb/Template_CPP)
+## My stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Titouan-Loeb&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Titouan-Loeb/Titouan-Loeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
