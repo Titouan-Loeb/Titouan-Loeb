@@ -14,7 +14,7 @@ Hey go checkout my [portfolio](https://portfolio-git-master-titouan-loebs-projec
 - [Defender](https://github.com/Titouan-Loeb/Defender-game)
 - [Lisp interpretor](https://github.com/Titouan-Loeb/Lisp_interpretor)
 - [Malloc](https://github.com/Titouan-Loeb/Malloc)
-### My workshops
+### Workshops I organized
 - [Workshop hadware Arduino](https://github.com/Titouan-Loeb/Workshop-hardware-Arduino)
 - [Mini project Arduino](https://github.com/Titouan-Loeb/Mini-project-Arduino)
 ### Template repositories
