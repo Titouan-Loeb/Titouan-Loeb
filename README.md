@@ -11,6 +11,7 @@ Hey go checkout my [portfolio](https://portfolio-git-master-titouan-loebs-projec
 ### School projects
 - [Sleeq](https://github.com/Titouan-Loeb/Sleeq)
 - [Arcade](https://github.com/Titouan-Loeb/Arcade)
+- [X86-Interpreter](https://github.com/Titouan-Loeb/X86-Interpreter)
 - [Defender](https://github.com/Titouan-Loeb/Defender-game)
 - [Lisp interpretor](https://github.com/Titouan-Loeb/Lisp_interpretor)
 - [Malloc](https://github.com/Titouan-Loeb/Malloc)
