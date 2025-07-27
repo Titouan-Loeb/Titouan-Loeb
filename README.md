@@ -6,6 +6,7 @@ Hey go checkout my [portfolio](https://portfolio-titouan-loeb.vercel.app) to lea
 - [Sokoban duel](https://github.com/Titouan-Loeb/Sokoban_duel)
 - [Sorting competition](https://github.com/Titouan-Loeb/SortingCompetition)
 - [Role play bot](https://github.com/Titouan-Loeb/RolePlayBot)
+- [Password encryptor](https://github.com/Titouan-Loeb/PasswordEncryptor)
 ### Open source contributions
 - [DevToolboxWeb](https://github.com/Titouan-Loeb/DevToolboxWeb)
 ### School projects
