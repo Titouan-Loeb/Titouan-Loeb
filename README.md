@@ -22,4 +22,4 @@ Hey go checkout my [portfolio](https://portfolio-titouan-loeb.vercel.app) to lea
 ### Template repositories
 - [Template C++](https://github.com/Titouan-Loeb/Template_CPP)
 ## My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Titouan-Loeb&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Titouan-Loeb&layout=pie)
