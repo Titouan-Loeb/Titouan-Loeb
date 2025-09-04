@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hey go checkout my [portfolio](https://portfolio-titouan-loeb.vercel.app) to learn more about me.
+Hey go check out my [portfolio](https://portfolio-titouan-loeb.vercel.app) to learn more about me.
 
 ## My projects
 ### Personal projects
